@@ -1,3 +1,0 @@
-Enter size:
-Enter elements:
-Sum=15
